@@ -1,7 +1,8 @@
 # Topic Modeling of MyIcon+ App Reviews: BERTopic vs. Top2Vec with IndoBERT Embeddings
 
-Muhammad Rama Refiando, Fitriyani
-Paper: ICIMCIS 2026 (accepted), "Topic Modeling of MyIcon+ App Reviews: Comparing BERTopic and Top2Vec With IndoBERT Embeddings"
+Muhammad Rama Refiando, Fitriyani — Telkom University
+   
+Paper accepted at ICIMCIS 2026.
 
 Code and supporting files for the paper *"Topic Modeling of MyIcon+ App Reviews: Comparing BERTopic and Top2Vec
 with IndoBERT Embeddings"*.
